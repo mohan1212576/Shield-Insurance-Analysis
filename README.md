@@ -78,12 +78,12 @@ We used a **Star Schema** for the data model, enabling:
 
 ---
 
-### 📈 Generalview Page
+### 📈 General View Page
 
-- **Key KPIs**: Total Revenue, Customers, Daily Growth  
-- **Customer by Age Group**: Pie chart  
-- **Revenue by City**: Bar chart  
-- **Monthly Revenue Trends**: Line chart  
+- **Key KPIs**: Total Revenue, Total Customers, Daily Revenue Growth, Daily Customers Growth  
+- **Customer by Age Group**
+- **Revenue by City**
+- **Monthly Revenue Trends**
 - **Customer Segmentation by City**
 
 ---
@@ -98,11 +98,11 @@ We used a **Star Schema** for the data model, enabling:
 
 ### 👥 Age Group Analysis
 
-- **Policy Preferences by Age Group**: Matrix  
-- **Settlement Expectation vs Age**: Donut chart  
-- **Sales Mode Preference by Age**: Stacked bar  
+- **Policy Preferences by Age Group**
+- **Settlement Expectation vs Age**
+- **Sales Mode Preference by Age** 
 - **Customer Count by Age Group**  
-- **Monthly Activity by Age Group**: Area chart  
+- **Monthly Activity by Age Group**  
 
 ---
 
