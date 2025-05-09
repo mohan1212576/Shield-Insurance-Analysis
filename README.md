@@ -117,9 +117,9 @@ We used a **Star Schema** for the data model, enabling:
 
 ## 🔗 Links
 
-- **Live Report**: [Access Here](#)  
-- **Presentation (Audio)**: [Listen Here](#)  
-- **PDF Report**: [Download](#)  
+- **Live Power-BI Dashboard**: [Access Here](https://app.powerbi.com/groups/me/reports/594c8264-5823-4d27-a316-8446d109005a/c09573defdd0410a2cd3?experience=power-bi)  
+- **Presentation (Audio)**: [Listen Here](https://youtu.be/PMYL6mf0oFM)  
+- **Finalized Client Mockup**: [Download](https://github.com/mohan1212576/Shield-Insurance-Analysis/blob/main/client_updated_mockup.pdf)  
 
 ---
 
