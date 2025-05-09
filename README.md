@@ -73,7 +73,8 @@ We used a **Star Schema** for the data model, enabling:
 - Navigation buttons to:  
   - **Overview**  
   - **Sales Mode Analysis**  
-  - **Age Group Analysis**  
+  - **Age Group Analysis**
+  - **Guide**
 
 ---
 
