@@ -77,7 +77,7 @@ We used a **Star Schema** for the data model, enabling:
 
 ---
 
-### 📈 Overview Page
+### 📈 Generalview Page
 
 - **Key KPIs**: Total Revenue, Customers, Daily Growth  
 - **Customer by Age Group**: Pie chart  
