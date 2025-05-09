@@ -1,7 +1,7 @@
 # 📊 Shield Insurance Analysis – Power BI Report  
 *A project from my internship at AtliQ Technologies (Codebasics Power BI Job-Ready Program)*
 
-[🔗 Live Power BI Report](#https://app.powerbi.com/groups/me/reports/594c8264-5823-4d27-a316-8446d109005a/c09573defdd0410a2cd3?experience=power-bi) • [🎙️ Audio Presentation](#)
+[🔗 Live Power BI Report](https://app.powerbi.com/groups/me/reports/594c8264-5823-4d27-a316-8446d109005a/c09573defdd0410a2cd3?experience=power-bi) • [🎙️ Audio Presentation](#)
 
 ---
 
